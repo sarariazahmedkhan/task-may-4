@@ -1,0 +1,70 @@
+button{
+    background-color: rgb(223, 19, 19);
+    color: aliceblue;
+    border:transparent;
+    padding-left: 40px;
+    padding-right:40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+button:hover{
+    background-color:rgb(236, 96, 96);
+    cursor: pointer
+    
+}
+#start{
+    background-color: rgb(255, 255, 0);
+    border:3px solid blue;
+    color:blue;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#start:hover{
+    background-color: blue;
+    color: rgb(224, 224, 64);
+    border:transparent; 
+    cursor: pointer
+}
+#login{
+   font-weight: bold;
+    color: aliceblue;
+    border:transparent;
+    border-radius: 40px;   
+    background-color: rgb(236, 236, 236);
+    background-image: linear-gradient(0deg, rgb(82, 235, 222), rgb(81, 201, 87));
+}
+#login:hover{
+    cursor: pointer
+}
+
+#sign{
+    background-color:whitesmoke;
+    color: #6749ea;
+    border-radius: 15px;
+    margin: 20px;
+    border:3px solid #6749ea;
+}
+#sign:hover{
+    background-color: #6749ea;
+    color:white;
+    cursor: pointer
+}
+#sub{
+   background-color:  #f9c032;
+    background-image: linear-gradient(0deg,#f9c032 ,#f6a871;
+    margin: 30px;
+}
+#sub:hover{
+    cursor: pointer;
+    background-color: #f9c032
+}
+
+#twitter{
+    background-image: url("https://fontawesome.com/icons/twitter?style=brands")
+}
+    
+
+}
+
+}
